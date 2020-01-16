@@ -1,0 +1,168 @@
+{
+   "OpenLabs": {
+      "list_clients": [
+         {
+            "name": "Luiz Tavares",
+            "phone": "98986-8190",
+            "special": false,
+            "cep": "23659520",
+            "address": "Rua das Pedrinhas",
+            "contract": {
+               "id": "0315236-1",
+               "list_services": [
+                  {
+                     "title": "Internet",
+                     "subtitle": "Serviço não habilitado",
+                     "status": false
+                  },
+                  {
+                     "title": "TV",
+                     "subtitle": "Ativo",
+                     "status": true
+                  },
+                  {
+                     "title": "phone",
+                     "subtitle": "Ativo",
+                     "status": true
+                  }
+               ]
+            }
+         },
+         {
+            "name": "Douglas Siqueira",
+            "phone": "98986-8191",
+            "special": true,
+            "cep": "23659521",
+            "address": "Rua das Couves",
+            "contract": {
+               "id": "0315236-3",
+               "list_services": [
+                  {
+                     "title": "Internet",
+                     "subtitle": "Ativo",
+                     "status": true
+                  },
+                  {
+                     "title": "TV",
+                     "subtitle": "Ativo",
+                     "status": true
+                  },
+                  {
+                     "title": "phone",
+                     "subtitle": "Serviço não habilitado",
+                     "status": false
+                  }
+               ]
+            }
+         },
+         {
+            "name": "Diogo Vasques",
+            "phone": "98986-8193",
+            "special": true,
+            "cep": "23659520",
+            "address": "Rua das Pedrinhas",
+            "contract": {
+               "id": "0315236-1",
+               "list_services": [
+                  {
+                     "title": "Internet",
+                     "subtitle": "Serviço não habilitado",
+                     "status": false
+                  },
+                  {
+                     "title": "TV",
+                     "subtitle": "Serviço não habilitado",
+                     "status": false
+                  },
+                  {
+                     "title": "phone",
+                     "subtitle": "Serviço não habilitado",
+                     "status": false
+                  }
+               ]
+            }
+         },
+         {
+            "name": "Dennys Barbosa",
+            "phone": "98986-8194",
+            "special": true,
+            "cep": "23659520",
+            "address": "Rua das Pedrinhas",
+            "contract": {
+               "id": "0315236-1",
+               "list_services": [
+                  {
+                     "title": "Internet",
+                     "subtitle": "Serviço não habilitado",
+                     "status": false
+                  },
+                  {
+                     "title": "TV",
+                     "subtitle": "Ativo",
+                     "status": true
+                  },
+                  {
+                     "title": "phone",
+                     "subtitle": "Serviço não habilitado",
+                     "status": false
+                  }
+               ]
+            }
+         },
+         {
+            "name": "Yuri Moreira",
+            "phone": "98986-8195",
+            "special": true,
+            "cep": "23659520",
+            "address": "Rua das Pedrinhas",
+            "contract": {
+               "id": "0315236-1",
+               "list_services": [
+                  {
+                     "title": "Internet",
+                     "subtitle": "Serviço não habilitado",
+                     "status": false
+                  },
+                  {
+                     "title": "TV",
+                     "subtitle": "Serviço não habilitado",
+                     "status": false
+                  },
+                  {
+                     "title": "phone",
+                     "subtitle": "Ativo",
+                     "status": true
+                  }
+               ]
+            }
+         },
+         {
+            "name": "Lucas Macedo",
+            "phone": "98986-8196",
+            "special": true,
+            "cep": "23659520",
+            "address": "Rua das Pedrinhas",
+            "contract": {
+               "id": "0315236-1",
+               "list_services": [
+                  {
+                     "title": "Internet",
+                     "subtitle": "Ativo",
+                     "status": true
+                  },
+                  {
+                     "title": "TV",
+                     "subtitle": "Ativo",
+                     "status": true
+                  },
+                  {
+                     "title": "phone",
+                     "subtitle": "Serviço não habilitado",
+                     "status": false
+                  }
+               ]
+            }
+         }
+      ]
+   }
+}
